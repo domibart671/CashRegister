@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Threading;
 using System.Media;
 /// <summary>
-/// 
+/// Created by:   
 /// </summary>
 namespace CashRegister
 {
